@@ -42,4 +42,4 @@ streamlit run GSTCheck.py
 
 - The app calls `http://sheet.gstincheck.co.in/check/<api_key>/<gstin>` once per GSTIN; a paid/exhausted key will return API errors per row.
 - Version 2.0 (sidebar credits: AuditFlow Team).
-- Private project.
+- Personal project.
